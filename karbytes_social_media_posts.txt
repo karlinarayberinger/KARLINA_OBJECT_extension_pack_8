@@ -22,6 +22,10 @@ tweet_url:
 
 https://twitter.com/karbytes/status/1756099019393348086
 
+tweet_screenshot_url:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_8/main/twitter_karbytes_09_february_2024_part_0.png
+
 * * *
 
 On 09_FEBRUARY_2024 at approximately 7:30PM Pacific Standard Time, karbytes shared the following karbytes-created plain-text sequence and encompassing screenshot image as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
@@ -34,6 +38,10 @@ tweet_url:
 
 https://twitter.com/karbytes/status/1756171007403188267
 
+tweet_screenshot_url:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_8/main/twitter_karbytes_09_february_2024_part_1.png
+
 * * *
 
 On 10_FEBRUARY_2024 at approximately 7:30PM Pacific Standard Time, karbytes shared the following karbytes-created plain-text sequence and encompassing screenshot image as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
@@ -45,3 +53,7 @@ As a follow-up to the two tweets which I tweeted yesterday, I propose the follow
 tweet_url:
 
 https://twitter.com/karbytes/status/1756505044881682572
+
+tweet_screenshot_url:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_8/main/twitter_karbytes_10_february_2024_part_0.png
