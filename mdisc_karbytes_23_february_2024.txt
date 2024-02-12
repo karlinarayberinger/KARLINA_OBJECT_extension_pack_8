@@ -32,4 +32,78 @@ Unless otherwise specified in the form of a comment, each of the enumerated zip 
 
 karbytes23february2024_core: // 21 files (1.7 gigabytes total).
 
-karbytes23february2024_core: // 66 files (3.7 gigabytes total).
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes23february2024_journals: // 66 files (3.7 gigabytes total).
+
+  - KARBYTES_JOURNAL_2023_PART_0-main.zip // 41.2 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_1-main.zip // 82.8 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_2-main.zip // 51.7 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_3-main.zip // 56.5 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_4-main.zip // 12.8 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_5-main.zip // 24.6 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_6-main.zip // 28.4 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_7-main.zip // 16.8 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_8-main.zip // 5.7 megabytes  
+
+  - KARBYTES_JOURNAL_2023_PART_9-main.zip // 67.1 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_10-main.zip // 14.2 megabytes  
+
+  - KARBYTES_JOURNAL_2023_PART_11-main.zip // 25.0 megabytes  
+
+  - KARBYTES_JOURNAL_2023_PART_12-main.zip // 89.0 megabytes  
+
+  - KARBYTES_JOURNAL_2023_PART_13-main.zip // 122.9 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_14-main.zip // 7.6 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_15-main.zip // 3.7 megabytes 
+
+  - KARBYTES_JOURNAL_2023_PART_16-main.zip // 22.6 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_17-main.zip // 6.1 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_18-main.zip // 12.0 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_19-main.zip // 18.8 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_20-main.zip // 17.0 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_21-main.zip // 4.5 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_22-main.zip // 3.3 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_23-main.zip // 93.3 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_24-main.zip // 54.7 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_25-main.zip // 155.5 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_26-main.zip // 81.7 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_27-main.zip // 55.6 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_28-main.zip // 76.6 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_29-main.zip // 79.8 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_30-main.zip // 65.8 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_31-main.zip // 26.9 megabytes
+
+  - KARBYTES_JOURNAL_2023_PART_32-main.zip // 179.7 megabytes
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+END_OF_FILE
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
