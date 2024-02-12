@@ -1,0 +1,31 @@
+/**
+ * file: mdisc_karbytes_23_february_2024.txt
+ * type: plain-text
+ * date: 11_FEBRUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+This plain-text file describes the contents of a set of two M_DISC compact discs which karbytes intends to have burned no later than 11:59PM Pacific Standard Time on 23_FEBRUARY_2024.
+
+Each one of the aforementioned set of two M_DISCs can store a maximum of approximately 4.7 gigabytes of read-only data (encoded as computer-readable sequences of binary digits).
+
+The aforementioned set of two M_DISCs contains all of the digital files which constitute the public karbytes-created website named Karlina Object dot WordPress dot Com as that website is configured at 11:59PM Pacific Standard Time on 23_FEBRUARY_2024.
+
+The aforementioned set of two M_DISCs contains all of the digital files which constitute the public karbytes-created website named Karbytes For Life Blog dot WordPress dot Com as that website is configured at 11:59PM Pacific Standard Time on 23_FEBRUARY_2024.
+
+Each one of the aforementioned two M_DISCs contains exactly one folder (named either karbytes23february2024_core or else karbytes23february2024_journals (and each one of those folders has a unique folder name and unique data contents in relation to every other folder inside of the aforementioned set of two M_DISCs)). 
+
+The aforementioned folder named karbytes23february2024_core contains all the files which comprise the final draft version of the aforementioned website named Karlina Object dot WordPress dot Com, all preliminary drafts of that website (which are hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), the first nine Karlina Object extension pack directories (which are hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), and the directory which contains screenshots of karbytes' (public) Minds dot Com social media account which were captured during the year 2020 (and the year 2020 is when karbytes' identity as a web author and the body of public domain web-based intellectual property which karbytes authored and which is also named karbytes was initially brought into existence).
+
+The aforementioned folder named karbytes23february2024_journals contains all journal directories which karbytes created during the years 2022 and 2023 (which are hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), all directories which contain screenshots of karbytes' (public) Instagram dot Com social media account during the year 2022 (which are hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), and the first six (private) basement directories (which are hosted on karbytes' GitHub account under the username @karlinarayberinger).
+
+Each one of the two aforementioned folders contains exclusively zip files (and each one of those zip files has a unique file name and unique data contents in relation to every other zip file inside of the aforementioned two folders).
+
+Each one of the aforementioned zip files contains all of the files which are stored inside of a particular (public or private) karbytes-created GitHub repository (and that GitHub repository is hosted on the partition of GitHub dot Com which is exclusively allocated to the GitHub username @karlinarayberinger).
+
+Unless otherwise specified in the form of a comment, each of the enumerated zip files was downloaded from a public karbytes-created GitHub repository (and that GitHub repository is hosted on the partition of GitHub dot Com which is exclusively allocated to the GitHub username @karlinarayberinger).
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
