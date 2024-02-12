@@ -29,3 +29,7 @@ Each one of the aforementioned zip files contains all of the files which are sto
 Unless otherwise specified in the form of a comment, each of the enumerated zip files was downloaded from a public karbytes-created GitHub repository (and that GitHub repository is hosted on the partition of GitHub dot Com which is exclusively allocated to the GitHub username @karlinarayberinger).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+karbytes23february2024_core: // 21 files (1.7 gigabytes total).
+
+karbytes23february2024_core: // 66 files (3.7 gigabytes total).
