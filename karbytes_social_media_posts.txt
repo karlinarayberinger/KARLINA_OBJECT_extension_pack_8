@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 10_FEBRUARY_2024
+ * date: 11_FEBRUARY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -57,3 +57,19 @@ https://twitter.com/karbytes/status/1756505044881682572
 tweet_screenshot_url:
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_8/main/twitter_karbytes_10_february_2024_part_0.png
+
+* * *
+
+On 11_FEBRUARY_2024 at approximately 4:30PM Pacific Standard Time, karbytes shared the following karbytes-created plain-text sequence and encompassing screenshot image as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
+
+tweet_text:
+
+Legally and even culturally speaking, there is (seemingly) no upper limit to how large the human population is allowed to become (in terms of how many (live) human individuals there are simultaneously inhabiting human civilization between "now" and any arbitrary temporal "point" in "the future") but there is always a "hard limit" to how many of those people are allowed to thrive and even survive past what is considered to be "reproductive age" for a human individual.
+
+tweet_url:
+
+https://twitter.com/karbytes/status/1756821507077251382
+
+tweet_screenshot_url:
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_8/main/twitter_karbytes_11_february_2024_part_0.png
