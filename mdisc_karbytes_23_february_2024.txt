@@ -18,7 +18,7 @@ The aforementioned set of two M_DISCs contains all of the digital files which co
 
 Each one of the aforementioned two M_DISCs contains exactly one folder (named either karbytes23february2024_core or else karbytes23february2024_journals (and each one of those folders has a unique folder name and unique data contents in relation to every other folder inside of the aforementioned set of two M_DISCs)). 
 
-The aforementioned folder named karbytes23february2024_core contains all the files which comprise the final draft version of the aforementioned website named Karlina Object dot WordPress dot Com, all preliminary drafts of that website (which are hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), the first nine Karlina Object extension pack directories (which are hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), and the directory which contains screenshots of karbytes' (public) Minds dot Com social media account which were captured during the year 2020 (and the year 2020 is when karbytes' identity as a web author and the body of public domain web-based intellectual property which karbytes authored and which is also named karbytes was initially brought into existence).
+The aforementioned folder named karbytes23february2024_core contains all the files which comprise the final draft version of the aforementioned website named Karlina Object dot WordPress dot Com, all preliminary drafts of that website (which are hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), the first nine Karlina Object extension pack directories (which are hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), the directory which contains karbytes' 23AndMe Ancestry genome analysis information (which is hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), and the directory which contains screenshots of karbytes' (public) Minds dot Com social media account which were captured during the year 2020 (and the year 2020 is when karbytes' identity as a web author and the body of public domain web-based intellectual property which karbytes authored and which is also named karbytes was initially brought into existence).
 
 The aforementioned folder named karbytes23february2024_journals contains all journal directories which karbytes created during the years 2022 and 2023 (which are hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), all directories which contain screenshots of karbytes' (public) Instagram dot Com social media account during the year 2022 (which are hosted on the aforementioned website named Karbytes For Life Blog dot WordPress dot Com), and the first six (private) basement directories (which are hosted on karbytes' GitHub account under the username @karlinarayberinger).
 
@@ -35,6 +35,64 @@ karbytes23february2024_core: // 21 files (1.7 gigabytes total).
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 karbytes23february2024_journals: // 66 files (3.7 gigabytes total).
+
+  - INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip // 166.6 megabytes
+
+  - INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW-main.zip // 211.7 megabytes
+
+  - karbytes_basement_0-main.zip // 149.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+  - karbytes_basement_1-main.zip // 164.4 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+  - karbytes_basement_2-main.zip // 65.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+  - karbytes_basement_3-main.zip // 2.5 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+  - karbytes_basement_4-main.zip // 24.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+  - karbytes_basement_5-main.zip // 6.1 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+  - KARBYTES_BRAND_IMAGES_2021-main.zip // 9.8 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_0-main.zip // 31.0 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_1-main.zip // 18.8 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_2-main.zip // 7.2 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_3-main.zip // 17.9 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_4-main.zip // 55.5 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_5-main.zip // 23.9 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_6-main.zip // 56.2 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_7-main.zip // 108.3 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_8-main.zip // 69.3 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_9-main.zip // 56.0 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_10-main.zip // 12.9 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_11-main.zip // 48.5 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_12-main.zip // 37.4 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_13-main.zip // 33.3 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_14-main.zip // 53.4 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_15-main.zip // 62.0 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_16-main.zip // 127.5 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_16B-main.zip // 153.2 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_16C-main.zip // 198.6 megabytes
+
+  - KARBYTES_JOURNAL_2022_PART_16D-main.zip // 215.5 megabytes
 
   - KARBYTES_JOURNAL_2023_PART_0-main.zip // 41.2 megabytes
 
@@ -101,6 +159,14 @@ karbytes23february2024_journals: // 66 files (3.7 gigabytes total).
   - KARBYTES_JOURNAL_2023_PART_31-main.zip // 26.9 megabytes
 
   - KARBYTES_JOURNAL_2023_PART_32-main.zip // 179.7 megabytes
+
+  - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 1.9 megabytes
+
+  - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.3 megabytes
+
+  - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
+
+  - MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.3 megabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
