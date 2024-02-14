@@ -1,7 +1,7 @@
 /**
  * file: mdisc_karbytes_23_february_2024.txt
  * type: plain-text
- * date: 13_FEBRUARY_2024
+ * date: 14_FEBRUARY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -30,7 +30,7 @@ Unless otherwise specified in the form of a comment, each of the enumerated zip 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes23february2024_core: // 21 files (1.7 gigabytes total).
+karbytes23february2024_core: // 21 files (1.8 gigabytes total).
 
 	- karbytes_23AndMe_Ancestry_Data-main.zip // 6.5 megabytes
 
