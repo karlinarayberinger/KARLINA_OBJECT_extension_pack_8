@@ -1,0 +1,76 @@
+﻿simulation_14_february_2024_abridged
+
+
+[Note that this Portable Format Document (to print out onto pieces of white paper which are each 8.5 inches wide and 11 inches tall using black ink, sans-serif font, and 11 point font size) contains plain-text content only and that not all the content which is featured on the web page named Karlina Object dot WordPress dot Com forward slash Simulation is featured also in this document].
+
+
+https://karlinaobject.wordpress.com/simulation/
+
+
+The final draft version of this document was published on 14_FEBRUARY_2024.
+
+
+________________
+
+
+
+
+SIMULATION
+
+
+________________
+
+
+
+
+The following paragraphs elaborate on and summarize what is discussed on the web page named METAPHYSICS of the website named Karlina Object dot WordPress dot Com. What the following paragraphs pertain to is the idea that all phenomena occur solely within the confines of a computer simulation and, also, that it is hypothetically possible that all phenomena can be entirely reconstituted from a particular uniquely corresponding sequence of binary digits.
+
+
+________________
+
+
+
+
+I hypothesize that it is possible for humans to create a software-defined simulation which appears to humans to be a scaled-down (yet digitally sampled thoroughly enough to appear to encompass (at least hypothetically) every law of physics, mathematics, and symbolic logic in general) model of the (relatively) physical universe which encompasses the computational hardware which runs that simulation and such that the simulation contains within it a functional virtual replica of the physical computer running that software (and each successive “layer” of virtual reality which is being simulated on the original physical computer is a “lossy” digital approximation of that layer’s parent layer for some finite number of layers until some “base case” to that recursive modeling process is obtained (and I assume that such a base case is where the data is too incomplete or too corrupted to render a functional virtual universe (i.e. a universe which is capable of modeling functional computational hardware running functional software)).
+
+
+(I originally started typing this note when I thought that there could be indefinitely many virtual reality layers inside of one computer simulation using the argument that all phenomena are fundamentally confined to and consisting of cyberspace (i.e. software simulated realities)).
+
+
+(I would define a phenomenon as some spatially and temporally finite collection of observed qualia which can be approximately (if not entirely to completion) replicated within the confines of some computer simulated universe).
+
+
+________________
+
+
+
+
+Note that the term “lossy” in the previous section of this web page was meant by the author of this web page to pertain to a data storage format or to a data transmission method which causes some amount of the data which is represented by a some source piece of information to not get copied from that source to some target substrate.
+
+
+An example of a “lossy” form of data storage is magnet tapes sprinkled with iron filings in particular patterns which approximately encode sound recordings because, each time the magnetic tape reader scans a particular magnetic tape recording, some of the iron filings are removed from the tape (which means that the resolution of that sound recording decreases as the number of times that recording is played increases (until that tape is no longer playable or else has no distinct recordings remaining in the iron filings on that tape)).
+
+
+An example of a non-lossy form of data storage is read-only optical discs engraved with grooves which reflect incoming laser light in binary contrasting patterns. Such a data storage medium is capable of verbatim storing a particular sequence of binary digits for as long as that disc is playably in tact because, each time that disc is played (perhaps as a compact disc exclusively containing sound recordings in the format of MP3 files), the information which is engraved on that read-only disc does not change.
+
+
+(All the files which comprise the website named Karlina Object dot WordPress dot Com have been (or are in the process of being) recorded onto M-DISCs by karbytes in addition to being saved multiple times by karbytes to the WayBack Machine).
+
+
+________________
+
+
+
+
+(The following quoted text was originally published as a Twitter post by karbytes on 08_AUGUST_2023 (and then that text was modified on 14_FEBRUARY_2024 in order to more accurately express the author’s intended message): “The mission of karbytes is to (at least imagine attempting to) create prose and code in the form of computer intepretable digital files which encodes essential logic for recreating and preserving the whole of nature (with literally no parts of reality left out of that all-encompassing karbytes-created ‘digital twin’).”)
+
+
+________________
+
+
+
+
+This web page was last updated on 14_FEBRUARY_2024. The content displayed on this web page is licensed as PUBLIC_DOMAIN intellectual property.
+
+
+________________
