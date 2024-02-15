@@ -1,0 +1,132 @@
+﻿knowledge_14_february_2024_abridged
+
+
+[Note that this Portable Format Document (to print out onto pieces of white paper which are each 8.5 inches wide and 11 inches tall using black ink, sans-serif font, and 11 point font size) contains plain-text content only and that not all the content which is featured on the web page named Karlina Object dot WordPress dot Com forward slash Knowledge is featured also in this document].
+
+
+https://karlinaobject.wordpress.com/knowledge/
+
+
+The final draft version of this document was published on 14_FEBRUARY_2024.
+
+
+________________
+
+
+
+
+KNOWLEDGE
+
+
+________________
+
+
+
+
+image_link: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/northeast_castro_valley_california_sunrise_02_july_2023.jpg
+
+
+________________
+
+
+
+
+14_FEBRUARY_2024 (chatGPT-4 summary of this web page (before the following purple-highlighted section was added to this section of this web page (as this web page was during the chatGPT use case featured in the hyperlink-referenced screenshot image which is mentioned on this section of this web page))):
+
+
+The webpage from karlinaobject.wordpress.com titled “KNOWLEDGE” explores the concepts of data, information, and knowledge, emphasizing their hierarchical relationship. The page discusses these concepts as emergent properties of physical processes in information processing systems. It defines data as non-ambiguous phenomena represented by binary digits, information as a collection of data referring to knowledge, and knowledge as a subjective, non-communicable interpretation of information by a complex agent. The page also includes philosophical musings on the nature of reality and consciousness, and the author’s vision of creating a comprehensive digital representation of nature.
+
+
+________________
+
+
+
+
+The following terms and their respective definitions describe knowledge as an emergent (and relatively abstract) property of the relatively physical processes which occur inside the hardware of a sufficiently complex information processing agent. Note that the following definitions might not pertain to their respective terms used outside the scope of this website (i.e. the website named Karlina Object dot WordPress dot Com).
+
+
+To view hidden text inside of the preformatted text box below, scroll horizontally.
+
+
+physical : hardware :: abstract : software.
+
+
+physical : electron_pattern :: abstract : integer_value.
+
+
+DATA.abstraction_level < INFORMATION.abstraction_level < KNOWLEDGE.abstraction_level.
+
+
+________________
+
+
+
+
+DATA: (singular: datum) phenomena which are non-ambiguously represented as finite sequences of binary digits such that, when those sequences of binary digits are transmitted from one information processing agent to some other information processing agent, both information processing agents interpret those transmitted sequences of binary digits as symbolically representing the exact same phenomena.
+
+
+An example of a datum is an int type variable named N being instantiated as a result of a particular C++ program being compiled and executed. For the duration of that int variable’s instantiation, that int variable has the relatively abstract properties of whatever four-byte values are stored inside of that variable (depending on the time the variable is checked to see what value it presently stores (and that variable can only store one int type value at one time)) and the relatively physical properties of an immutable reservation of some finite number of contiguous memory cells inside of the executing digital computer’s electronic hardware and the particular arrangement of electrons inside of those particular memory cells which each correspond with a particular int type value.
+
+
+________________
+
+
+
+
+INFORMATION: a collection of data which are organized in a particular spatial and temporal configuration such that those data collectively refer to some piece of knowledge which neither one of those data could wholly represent by itself.
+
+
+Note that it is possible for one information processing agent to classify a particular collection of data named D as data while some other information processing agent classifies that same piece of data as information. The information processing agent which classifies D as mere data instead of as more complete information presumably considers D to be missing essential components which are required to make D whole (i.e. self contained) rather than merely an isolated fragment of a whole.
+
+
+________________
+
+
+
+
+KNOWLEDGE: an emergent property which occurs as a result of a sufficiently complex information processing agent subjectively interpreting some piece of information such that the resulting interpretation is not wholly communicable.
+
+
+It could be said that what is transmitted between multiple information processing agents is information and what each of those information processing agents subjectively experiences is knowledge (which means that, unlike information and data, knowledge is a solipsistic phenomenon).
+
+
+An example of knowledge is karbytes’ mental model of reality (and karbytes is the sole author of this website).
+
+
+Each of the words, images, and sounds which have been encoded as sequences of computer-readable binary digits and stored as files inside of web servers and which comprise this website were consciously selected to be included in this website by karbytes instead of any other pieces of information due to the fact that those pieces of information which karbytes selected were the first to trigger specific neuronal firing patterns in karbytes’ brain which indicated that those pieces of information fit sufficiently well into the puzzle which is karbytes’ mental model of reality (and, in karbytes’ universe from karbytes’ human vantage on the surface of Planet Earth in a region named California on the day named 21_SEPTEMBER_2023 at the 24-hour clock cycle point named 12:30PM Pacific Standard Time, that mental model of reality contains more information than what this website contains).
+
+
+To elaborate on the portion of the previous sentence which is encapsulated inside of parentheses, this website is, within a spatially and temporally finite context, metaphorically a set of terms which have corresponding definitions inside of the dictionary which is karbytes’ mental model of reality. Within that spatially and temporally finite context, when karbytes views a web page within this website, a (relatively physical) cascade of electrical impulses occurs inside of karbytes’ brain which causes karbytes to experience a (relatively abstract) reconstruction of memorized information associated with the (finite, immutable, and verbatim digitized (and verbatim transmissible)) content which is displayed on that web page.
+
+
+________________
+
+
+
+
+(The following quoted text was originally published as a Twitter post by karbytes on 08_AUGUST_2023 (and then that text was modified on 14_FEBRUARY_2024 in order to more accurately express the author’s intended message): “The mission of karbytes is to (at least imagine attempting to) create prose and code in the form of computer intepretable digital files which encodes essential logic for recreating and preserving the whole of nature (with literally no parts of reality left out of that all-encompassing karbytes-created ‘digital twin’).”)
+
+
+________________
+
+
+
+
+The following two paragraphs are excerpts from a journal entry written by karbytes on 25_OCTOBER_2023 (and those journal excerpts elaborate on the aforementioned tweet by karbytes):
+
+
+Last night I had a dream that I was propagating the continuity of my mind (potentially for an infinitely long period of time) by traveling through wormholes which each lead to a simulated parallel version of the universe which physically hosts an entry point into that parallel universe’s respective wormhole (before each of those universes becomes uninhabitable to my continuity of consciousness as a result of that universe disintegrating into pure energy as a result of the total entropy in that universe increasing as the time within that universes elapses).
+
+
+In order for my mind (and not necessarily my body) to travel from one universe, A, to some other universe, B, using some transuniversal wormhole which enables (digital) information to (verbatim) be transmitted from A to B), a sufficiently comprehensive software model of my entire brain would need to be generated inside of A so that the “digital twin” of my brain (which models my brain’s entire cellular structural and chemical-electrical configuration at exactly one particular point along A’s timeline) can be sent in the form of sequences of binary digits (using contrasting patterns of light to physically transmit those binary digits through space-time) through the wormhole spanning A and B (whether or not B is a simulation being run on hardware inside of A or whether B is occurring outside of A (and the mind that ends up emerging inside of B will experience no sense of having left A because, according to that mind in B which was cloned from my mind in A, B and A are indistinguishable from each other.
+
+
+________________
+
+
+
+
+This web page was last updated on 14_FEBRUARY_2024. The content displayed on this web page is licensed as PUBLIC_DOMAIN intellectual property.
+
+
+________________
