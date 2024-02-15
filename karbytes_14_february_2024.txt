@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_14_february_2024.txt
+ * type: plain-text
+ * date: 14_FEBRUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 I am strongly considering applying for citizenship in Switzerland as soon as I deem feasible and to move to that country to live and work for the next thirty years (if not longer).
 
