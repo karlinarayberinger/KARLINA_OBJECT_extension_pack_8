@@ -1,5 +1,5 @@
 /**
- * file: karbytes_complete_physical_inventory_for_23february2024.txt
+ * file: karbytes_physical_inventory_for_23february2024.txt
  * type: plain-text
  * date: 15_FEBRUARY_2024
  * author: karbytes
