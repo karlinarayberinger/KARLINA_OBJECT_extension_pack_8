@@ -34,7 +34,7 @@ karbytes23february2024_core: // 21 files (1.8 gigabytes total).
 
 	- karbytes_23AndMe_Ancestry_Data-main.zip // 6.5 megabytes
 
-	- KARBYTES_FOR_LIFE_BLOG-main.zip // 595.3 kilobytes
+	- KARBYTES_FOR_LIFE_BLOG-main.zip // 595.7 kilobytes
 
 	- KARLINA_OBJECT_12_JUNE_2023-main.zip // 19.4 megabytes
 
