@@ -56,7 +56,7 @@ karbytes23february2024_core: // 21 files (1.8 gigabytes total).
 
 	- KARLINA_OBJECT_extension_pack_7-main.zip // 41.9 megabytes
 
-	- KARLINA_OBJECT_extension_pack_8-main.zip // 68.6 megabytes
+	- KARLINA_OBJECT_extension_pack_8-main.zip // 70.6 megabytes
 
 	- KARLINA_OBJECT_summer_2023_starter_pack-main.zip // 27.5 megabytes
 
@@ -172,7 +172,7 @@ karbytes23february2024_journals: // 66 files (3.7 gigabytes total).
 
 	- KARBYTES_JOURNAL_2023_PART_17-main.zip // 6.1 megabytes
 
-	-KARBYTES_JOURNAL_2023_PART_18-main.zip // 12.0 megabytes
+	- KARBYTES_JOURNAL_2023_PART_18-main.zip // 12.0 megabytes
 
 	- KARBYTES_JOURNAL_2023_PART_19-main.zip // 18.8 megabytes
 
@@ -204,11 +204,11 @@ karbytes23february2024_journals: // 66 files (3.7 gigabytes total).
 
 	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip // 1.9 megabytes
 
-	-  MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.3 megabytes
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip // 2.3 megabytes
 
-	-  MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip // 1.5 megabytes
 
-	-  MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.3 megabytes
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip // 4.3 megabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
