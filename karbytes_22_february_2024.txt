@@ -1,0 +1,39 @@
+/**
+ * file: karbytes_22_february_2024.txt
+ * type: plain-text
+ * date: 21_FEBRUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+Today while I was having my back bicycle tire getting replaced after being punctured last night (which cost approximately $30 for bike repair service and replacement inner tube and outer tire parts (and which took approximately an hour to have done)), I decided to reserve a small public storage unit (which is a closet whose base is a rectangle whose length is five feet and whose width is five feet) at the Public Storage facility neighboring Castro Valley BART station (and I paid for the first month of rent for that storage unit already (which is due on the first day of each month and currently approximately $70 per month)). 
+
+After I picked up my bicycle from the Trek bicycle shop in Castro Village, I rode my bike directly to the aforementioned Public Storage facility and put my backpack (which I was carrying on my person as usual) in my reserved storage unit (and locked the door, of course) and then rode my bicycle back to my dad's house (which is my current legal address and the default address which I have my mail sent to) to pick up my copy of my mom's car keys. I called her on the phone to ask her if I could borrow the Toyota Matrix van which those keys are for (and my mom said yes and encouraged me to hold onto the car for as long as I needed it (but I ultimately decided to return the car after I finished using it to move all of my physical property out of my room at my dad's house and into the aforementioned storage (and, of course, I picked up the backpack which I left there because it contains items which I use on a daily basis))). 
+
+After the phone call, I rode my bike (sans the cumbersone backpack) speedily downhill to get to my mom's house where the van was parked in the driveway. Then I loaded my bicycle into the van, took it to the bike rack near Orange Theory fitness in Castro Valley near where I frequently go to to get coffee and pastries from the nearby Peet's Coffee restaurant (and locked the bicycle to that bike rack, of course), and then drove the emptied van up the hill to my dad's house to load all of my physical property which is in that house into the van. Then I drove back down to the Public Storage facility and I got the whole move-in done in one trip and within the span of approximately three hours (starting at the time I entered the gate code which was texted to me to enter the facility and ending at the time I entered that gate code to exit the facility).
+
+(The following are images created today during today's adventures in consolidating all of my physical property (and I intend to make several trips to and from the Public Storage facility which I am currently renting exactly one storage unit at via bicycle in order to sort through the contents of that storage unit and remove (and properly discard or give away) the contents which I find in that storage unit to be insufficiently useful and/or sentimental for me to want to keep in my posession):
+
+	- image_0: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_8/main/public_storage_unit_rental_for_karbytes_21_february_2024.png
+
+	- image_1: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_8/main/karbytes_in_public_storage_unit_21feb2024.jpg
+
+	- image_2: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_8/main/most_of_karbytes_physical_property_21feb2024.jpg
+
+While returning the car to my mom's house and visiting both of my parents who were there at my mom's house (and Casey the cat who "technically belongs to" the neighbors living in the adjacent house on the south side of my mom's house), my brother arrived in his car. At the time this note is being written, my parents, brother, maternal grandfather, and I are relaxing in my mom's house "like old times" (but, in my opinion, even better because I feel that the universe I live in and all of the things in it have, more or less, evolved as time elapsed (and what I mean by that is that I think that technology, culture, and non human aspects of existence (as I currently and (currently) historically know it) have gotten more complicated and interesting)). As "usual", I am hanging out by myself in one of the bedrooms upstairs using the house Wi-Fi instead of my personal AT&T data to connect to the Internet (though I always have to use my phone to enter a two-step authentication code to log into my GitHub account (whose username is @karlinarayberinger)) while my grandfather is enjoying some entertainment in his room and while my parents and brother are watching some movie in the south-most television room. (My bicycle is currently parked inside the biggest room in the house which is connected to the front door).
+
+After I am done making tonight's updates to karbytes (the public domain web-based intellectual property encompassed by the public karbytes-created website named Karlina Object dot WordPress dot Com and the public karbytes-created website named Karbytes For Life Blog dot WordPress dot Com), I plan on going to one of my favorite camping spots to read, watch videos, and or surf the web (and I am especially excited to read the new book I recently bought and picked up from the Amazon locker named Taube in Castro Valley which chronicles some psychonaut's experiences using high doses of LSD across 73 sessions).
+
+Finally, it is important to note that what I said in the plain-text journal entry named karbytes_21_february_2024.txt in the public karbytes-created GitHub repository named KARLINA_OBJECT_extension_pack_8 is now "out of date" due to the fact that I moved all of my physical property out of my dad's house and into the Public Storage unit which I started renting today (and whatever else I classify as my physical property is either in my backpack, being worn as clothing or wearable gear, or else is a vehicle which I own (and the only vehicle which I currently own is an orange and black mountain bicycle)). I will no longer be hanging any M_DISCs I burn on a wall. Instead, I will keep them all inside of fire-proof compact disc cases or inside of binder sleeves.
+
+Below are updated details about how I plan to store the finalized version of the karbytes data collection named karbytes_23february2024_core and the finalized version of the karbytes data collection named karbytes_23february2024_journals:
+
+	- "most essential" karbytes backups metal safe binder (for security):  1 * M_DISC.karbytes_23february2024_core, 1 * M_DISC.karbytes_23february2024_journals.
+
+	- "most essential" karbytes backups metal safe compact disc case (for security):  1 * M_DISC.karbytes_23february2024_core, 1 * M_DISC.karbytes_23february2024_journals.
+
+	- "preliminary" karbytes backups microwave oven compact disc case (for security):  2 * M_DISC.karbytes_23february2024_core, 2 * M_DISC.karbytes_23february2024_journals.
+
+For details on which files explicitly constitute karbytes_23february2024_core and karbytes_23february2024_journals, see the web page whose address is the following Uniform Resource Locator:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_physical_inventory_for_23february2024/
