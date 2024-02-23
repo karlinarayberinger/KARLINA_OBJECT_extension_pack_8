@@ -15,3 +15,9 @@ karbytes_1: "Zero is the only number that creates all the numbers (i.e. infinity
 karbytes_0: "Why is zero factorial one instead of zero?"
 
 karbytes_1: "Zero factorial is one because, if it was not, all factorials would be zero. Zero factorial (i.e. 0!) is the base case to all recursive factorial function calls."
+
+* * *
+
+karbytes_0: "Why is any number to the power of zero one instead of zero?"
+
+karbytes_1: "Any number to the power of zero for the same reason that dividing any number by zero is infinity. One can be divided into infinitely many numbers but the result of dividing zero by any number except for zero is always zero."
