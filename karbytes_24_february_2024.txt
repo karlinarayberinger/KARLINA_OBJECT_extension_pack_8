@@ -20,4 +20,4 @@ karbytes_1: "Zero factorial is one because, if it was not, all factorials would 
 
 karbytes_0: "Why is any number to the power of zero one instead of zero?"
 
-karbytes_1: "Any number to the power of zero for the same reason that dividing any number by zero is infinity. One can be divided into infinitely many numbers but the result of dividing zero by any number except for zero is always zero."
+karbytes_1: "Any number to the power of zero is one for the same reason that dividing any number by zero is infinity. One can be divided into infinitely many numbers but the result of dividing zero by any number except for zero is always zero."
