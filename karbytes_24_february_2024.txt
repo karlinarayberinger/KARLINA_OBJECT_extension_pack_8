@@ -1,0 +1,11 @@
+/**
+ * file: karbytes_24_february_2024.txt
+ * type: plain-text
+ * date: 22_FEBRUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "Why is zero the first number instead of one?"
+
+karbytes_1: "Zero is the only number that creates all the numbers (i.e. infinity) by being divided by itself."
