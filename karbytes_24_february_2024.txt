@@ -9,3 +9,9 @@
 karbytes_0: "Why is zero the first number instead of one?"
 
 karbytes_1: "Zero is the only number that creates all the numbers (i.e. infinity) by being divided by itself."
+
+* * *
+
+karbytes_0: "Why is zero factorial one instead of zero?"
+
+karbytes_1: "Zero factorial is one because, if it was not, all factorials would be zero. Zero factorial (i.e. 0!) is the base case to all recursive factorial function calls."
