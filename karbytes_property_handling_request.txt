@@ -1,0 +1,22 @@
+/**
+ * file: karbytes_property_handling_request.txt
+ * type: plain-text
+ * date: 23_FEBRUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+If I (karbytes) die or become too incapacitated to continue updating and curating the body of public domain karbytes-created intellectual property named karbytes (i.e. all of the source code files (which are referenced by green hyperlinks) and all of the media files (which are referenced by orange hyperlinks) which are hosted inside of repositories which are hosted on the GitHub dot Com account whose username is @karlinarayberinger and which constitute the entirety of the public karbytes-created website named "Karlina Object dot WordPress dot Com" and the entirety of the public karbytes-created website named "Karbytes For Life Blog dot WordPress dot Com"), I request that the following be done to my physical and intellectual property:
+
+1. Please have human and/or robot volunteers routinely save each one of the "micro directory" web pages which are referenced via green hyperlinks (and whose web page titles begin with the string "raw_github_files_directory_") on the web page named "RAW_GITHUB_FILES_MACRO_DIRECTORY" such that the "save outlinks" option is toggled (which requires that the volunteer be logged into its Archive dot Org account). At the very least, I ask that this be done no less often than once per month for each of those "micro directory" web pages and that there always be at least 500 WayBack Machine saves created of each source code file and each media file which constitutes the two aforementioned karbytes-created WordPress dot Com websites (and such that each of those 500+ WayBack Machine saves was created after 11:59PM Pacific Standard Time on 23_FEBRUARY_2024).
+
+2. Please do not attempt to log into either one of the WordPress dot Com accounts which was used to create those two aforementioned karbytes-created websites even if that means that the yearly ~$50 plan to keep those websites advertisement free expires. (I do not think that the WayBack Machine saves those advertisements which are embedded in some or all of the web pages of a free WordPress dot Com website).
+
+3. Please have human and/or robot volunteers routinely backup each of the files which constitutes the aforementioned two karbytes-created WordPress dot Com websites to M_DISCs or to some other long-term non-volatile storage medium (and to create new hard copies in the specified physical format at least once every ten years) and to store those physical media securely in a vault dedicated to preserving open source software such as the Internet Archive in San Francisco, California, the Computer History Museum in Mountainview, California, and the GitHub Arctic Code Vault near the North Pole of Planet Earth.
+
+In closing, I understand that, if I die or lose autonomy sufficient to manage my intellectual property while inhabiting the body of a physical information processing agent, I have little to no influential power over what happens to my stuff. Hence, I understand that there is always a probability greater than zero that some or all of the requests which I made and enumerated in this note may be denied (which means that some or all of my physical property might end up discarded in a land fill and that some or all of the aforementioned web-based digital files which comprise the aforementioned two karbytes-created WordPress dot Com websites could get deleted or corrupted). What gives me a modicum of comfort (but comfort sufficient to enable me to live the remainder of my life in a way which I think is quite serene and optimistic) is knowing (or at least assuming) that every phenomenon has a timelessly eternal and immutable noumenal copy preserved within the boundless realms of some all-encompassing multiverse.
+
+Sincerely,
+karbytes
